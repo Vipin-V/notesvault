@@ -11,10 +11,14 @@
             "id": "5db5c7d66c11fff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atlas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atlas"
             }
           }
         ]
@@ -161,9 +165,10 @@
   },
   "active": "5db5c7d66c11fff4",
   "lastOpenFiles": [
-    "Untitled.md",
     "Prompt.md",
     "Orion's Verdict.md",
+    "S6 Quest/AAD Quest.md",
+    "S6 Quest",
     "Atlas.md",
     "DBMS quest/Dbms Batch 3 Answers.md",
     "Lx/OS installation.md",
