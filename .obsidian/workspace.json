@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Placement/Day 4.md",
+                "file": "pix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4"
+              "title": "pix"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "024b7130cb1fe31b",
+  "active": "ce5c19c7940c7743",
   "lastOpenFiles": [
-    "Placement/Day 2.md",
     "Placement/Day 4.md",
+    "pix.md",
+    "Placement/Day 2.md",
     "Placement/Python Questionaire.pdf",
     "Placement/Unconfirmed 740693.crdownload",
     "Placement",
